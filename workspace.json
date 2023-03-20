@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "app-angular": "apps/app-angular",
+    "app-angular-e2e": "apps/app-angular-e2e",
+    "app-flutter": "apps/app-flutter",
+    "app-react": "apps/app-react",
+    "app-react-e2e": "apps/app-react-e2e",
+    "app-react-native": "apps/app-react-native",
+    "app-react-native-e2e": "apps/app-react-native-e2e",
+    "proxy": "infra/proxy"
+  }
+}
